@@ -4,6 +4,8 @@ This script needs a seed phrase and runs through the predefined Camino/Avalanche
 
 The script can also be modified to print out more/different paths.
 
+There is a seed phrase pre-defined as an example. This is not a leak but just a random phrase with no funds.
+
 ## How to use
 * Clone the repository
 * Make sure you have nodejs installed
